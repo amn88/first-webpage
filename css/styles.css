@@ -5,8 +5,11 @@ h1 {
 
 h2 {
   color: #e74c3c;
-  text-align: center;
   font-style: italic;
+}
+
+h2#center {
+  text-align: center;
 }
 
 p {
